@@ -1,2 +1,2 @@
 # new-start
-Write simple test programs that help me learn the technologies used in distributed systems
+Write simple test programs that help me learn technologies used in distributed systems
